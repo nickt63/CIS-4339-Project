@@ -3,7 +3,7 @@
 To run applications:
 
 **IMPORTANT**
-.emv file is required to run this program. MONGO_URL = (URL for MongoDB)
+.env file is required to run this program. "MONGO_URL = (URL for MongoDB)"
 
 Run backend:
 cd project-cis_4339_project_23
